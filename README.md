@@ -1,8 +1,8 @@
-# More Suits v1.4.1
-### Adds more suits to choose from, and can be used as a library to load your own suits!
+# More Suits v1.0.0
+### Adds more suits to choose from, and can be used as a library to load your own suits! but TOTAL
 
 ## Instructions
-Place the ```x753-More_Suits-X.X.X``` folder in your ```BepInEx/Plugins``` folder. Make sure the ```moresuits``` folder is in the same folder as ```MoreSuits.dll```.
+Place the ```More_Suits_TOTAL``` folder in your ```BepInEx/Plugins``` folder. Make sure the ```moresuits``` folder is in the same folder as ```MoreSuits.dll```.
 
 ## Config File
 After launching the game with the mod once, a config file is generated. In this file you can disable individual suits from being loaded, as well as ignore any ```!less-suits.txt``` file and attempt to load all suits (which is useful if you have another mod that helps manage lots of suits).
